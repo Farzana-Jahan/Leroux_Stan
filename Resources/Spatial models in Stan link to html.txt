@@ -1,0 +1,4 @@
+#Spatial Models in Stan: Intrinsic Auto-Regressive Models for Areal Data
+
+https://mc-stan.org/users/documentation/case-studies/icar_stan.html
+
